@@ -1,0 +1,10 @@
+.sevice__many{
+    display: flex;
+    font-size: 14px;
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    align-items: center;
+}
+.sevice__button{
+    display: flex;
+    margin-left: 24px;
+}

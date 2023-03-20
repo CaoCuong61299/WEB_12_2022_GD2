@@ -1,0 +1,19 @@
+.paging {
+    padding-right: 100px;
+  }
+  .dx-light-pages {
+    display: none !important;
+  }
+  .dx-page-sizes {
+    position: absolute;
+    right: 100px;
+  }
+  .dx-info {
+    position: absolute;
+    left: 16px;
+    color: #000;
+    font-weight: 400;
+  }
+  .dx-pager .dx-pages .dx-info{
+    opacity: 1;
+  }

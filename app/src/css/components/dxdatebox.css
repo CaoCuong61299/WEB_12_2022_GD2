@@ -1,0 +1,9 @@
+.dx-dropdowneditor.dx-state-active .dx-dropdowneditor-icon, .dx-dropdowneditor.dx-state-hover:not(.dx-custom-button-hovered) .dx-dropdowneditor-icon{
+    background-color: #fff !important;
+}
+.dx-datebox-time .dx-dropdowneditor-icon{
+    color: #666666;
+}
+.dx-invalid-message.dx-overlay-wrapper{
+    width: 300px !important;
+}

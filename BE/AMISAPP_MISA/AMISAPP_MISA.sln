@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMISAPP_MISA.API", "AMISAPP_MISA.API\AMISAPP_MISA.API.csproj", "{01C65761-275E-46E7-92F5-EB6D47F24185}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMISAPP_MISA.BL", "AMISAPP_MISA.BL\AMISAPP_MISA.BL.csproj", "{6D4E20BB-283C-4585-8648-25D793947348}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMISAPP_MISA.DL", "AMISAPP_MISA.DL\AMISAPP_MISA.DL.csproj", "{6FEC79E8-5A50-4D72-A120-F6BFFA885819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMISAPP_MISA.Common", "AMISAPP_MISA.Common\AMISAPP_MISA.Common.csproj", "{14BAF48F-6009-4065-A925-B7CD3BF21BA6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01C65761-275E-46E7-92F5-EB6D47F24185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C65761-275E-46E7-92F5-EB6D47F24185}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C65761-275E-46E7-92F5-EB6D47F24185}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C65761-275E-46E7-92F5-EB6D47F24185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D4E20BB-283C-4585-8648-25D793947348}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D4E20BB-283C-4585-8648-25D793947348}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D4E20BB-283C-4585-8648-25D793947348}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D4E20BB-283C-4585-8648-25D793947348}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FEC79E8-5A50-4D72-A120-F6BFFA885819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FEC79E8-5A50-4D72-A120-F6BFFA885819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FEC79E8-5A50-4D72-A120-F6BFFA885819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FEC79E8-5A50-4D72-A120-F6BFFA885819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14BAF48F-6009-4065-A925-B7CD3BF21BA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BAF48F-6009-4065-A925-B7CD3BF21BA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BAF48F-6009-4065-A925-B7CD3BF21BA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BAF48F-6009-4065-A925-B7CD3BF21BA6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F13A3524-DD25-4992-A93D-B66D3A0D6F4E}
+	EndGlobalSection
+EndGlobal

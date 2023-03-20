@@ -1,0 +1,55 @@
+.btn_edit{
+    width: 36px;
+    height: 36px;
+    background-color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn_edit-icon{
+    background: url('../../assets/Icon.c6e6c5f.svg') no-repeat -292px -28px;
+	width: 16px;
+	height: 16px;
+}
+.btn_delete{
+    width: 36px;
+    height: 36px;
+    background-color: #fff;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn_delete-icon{
+    background: url('../../assets/Icon.c6e6c5f.svg') no-repeat -172px -28px;
+	width: 16px;
+	height: 16px;
+}
+.btn_uncheck{
+    border: 0px;
+    background-color: #fff;
+    font-size: 14px;
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    color: #FF6161;
+}
+.btn_deleteall{
+    height: 36px;
+    min-width: 80px;
+    border: 1px solid #ef292f;
+    background-color: #fff;
+    font-size: 14px;
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+    color: #ef292f;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 16px;
+}
+.icon_delete{
+    background: url('../../assets/Icon.c6e6c5f.svg') no-repeat -172px -28px;
+	width: 16px;
+	height: 16px;
+    margin-right: 8px;
+}

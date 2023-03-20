@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N/oycE4OwtkoQ4zklxA4+zlkU5P8hQJ1uedC2HOEtYC9GDFdNGIgQpxkCttGcX9DJQLemwhcvsCPKeqN+Auh9g==",
+  "success": true,
+  "projectFilePath": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.DL\\AMISAPP_MISA.DL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nguye\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\nguye\\.nuget\\packages\\mysqlconnector\\2.2.5\\mysqlconnector.2.2.5.nupkg.sha512"
+  ],
+  "logs": []
+}

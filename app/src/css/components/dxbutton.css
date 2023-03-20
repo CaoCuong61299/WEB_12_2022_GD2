@@ -1,0 +1,60 @@
+
+.dx-button-content{
+    padding: 0 !important;
+}
+.dx-button:hover{
+    background-color: #FA6000;
+}
+
+.dx-button-mode-contained .dx-icon{
+    color: #fff !important;
+}
+.dx-button-text{
+    font-size: 14px;
+    font-weight: 500;
+    white-space:nowrap;
+    font-family: Roboto,Helvetica,Arial,sans-serif;
+}
+.btn{
+    height: 36px !important;
+    min-width: 0px !important;
+    border-width: 1px !important;
+    border-style: solid !important;
+    background-color: #EC5504 !important;
+    color: #fff !important;
+    height: 36px !important;
+}
+
+.btn:hover{
+    background-color: #FA6000 !important;
+}
+.btn_white{
+    height: 36px !important;
+    min-width: 0px !important;
+    border-width: 1px !important;
+    border-style: solid !important;
+    background-color: #FFFFFF !important;
+    color: #1F1F23 !important;
+}
+.btn_white:hover{
+    background-color: #EAE6FF !important;
+}
+.borderRight{
+    width: 3px;
+    height: 35px;
+    border-top: 8px solid #EC5504;
+    border-right: 1px solid #EC5504;
+    border-bottom: 8px solid #EC5504;
+    border-left: 1px solid #EC5504;
+    box-sizing: border-box;
+    background-color: #EAE6FF;
+    position: absolute;
+    right: 34px;
+    top: 0.5px;
+}
+.btn_red{
+    background-color: #E02915 !important;
+}
+.btn_red:hover{
+    background-color: #CF1b08 !important;
+}

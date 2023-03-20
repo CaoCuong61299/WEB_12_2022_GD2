@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AMISAPP_MISA.API.props" />
+</Project>

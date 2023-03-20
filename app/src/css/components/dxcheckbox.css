@@ -1,0 +1,41 @@
+/* Check box table */
+.dx-header-row .dx-editor-cell .dx-select-checkbox{
+}
+.dx-datagrid-checkbox-size .dx-checkbox-icon{
+    border: 2px solid #737888 !important;
+    background-color: #fff;
+    border-radius: 4px !important;
+}
+.dx-datagrid-checkbox-size.dx-checkbox-checked .dx-checkbox-icon{
+    font-size: 10px !important;
+}
+.dx-checkbox-checked .dx-checkbox-icon{
+    color: #fff !important;
+}
+.dx-datagrid-checkbox-size.dx-checkbox-checked .dx-checkbox-icon{
+    background-color: #EC5504;
+    border: 2px solid #EC5504 !important;
+}
+.dx-datagrid-rowsview .dx-select-checkboxes-hidden > tbody > tr > td > .dx-select-checkbox{
+    display: inline-block !important;
+}
+.dx-datagrid-checkbox-size.dx-checkbox-indeterminate .dx-checkbox-icon{
+    font-size: 0px !important;
+}
+
+/* CheckBox */
+.dx-checkbox-checked .dx-checkbox-icon{
+    background-color: #EC5504;
+    border: 2px solid #EC5504 !important;
+}
+
+.dx-checkbox-icon{
+    width: 16px !important;
+    height: 16px !important;
+    border-radius: 2px !important;
+    background-color: #fff;
+    border: 2px solid #737888 !important;
+}
+.dx-checkbox-checked .dx-checkbox-icon {
+    font-size: 10px !important;
+}

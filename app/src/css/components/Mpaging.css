@@ -1,0 +1,33 @@
+.paging__left{
+
+
+}
+.dx-scrollview-content{
+    background-color: #fff;
+}
+.dx-buttongroup-wrapper{
+    width: 70px !important;
+    height: 36px !important;
+}
+.paging__right{
+    display: flex;
+    align-items: center;
+}
+.paging__right-content{
+    padding-left: 16px;
+}
+.paging__right-arrow-left{
+    background: url('../../assets/Icon.c6e6c5f.svg') no-repeat -224px -5px;
+	width: 7px;
+	height: 14px;
+}
+.paging__right-arrow{
+    display: flex;
+    margin-left: 16px;
+}
+.paging__right-arrow-right{
+    background: url('../../assets/Icon.c6e6c5f.svg') no-repeat -249px -5px;
+	width: 7px;
+	height: 14px;
+    margin-left: 24px;
+}

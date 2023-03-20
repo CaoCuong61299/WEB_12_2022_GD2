@@ -1,0 +1,121 @@
+.header__left{
+    width: 200px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+}
+.header__left .header__left-menu{
+    background: url('../../assets/Icon.c6e6c5f.svg') no-repeat -3px -124px;
+	width: 17px;
+	height: 16px;
+}
+.header__left .header__left-icon{
+    background: url('../../assets/Icon.c6e6c5f.svg') no-repeat 0 -72px;
+	width: 32px;
+	height: 32px;
+    margin-left: 16px;
+}
+.header__left .header__left-text{
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 12px;
+}
+.header__center{
+    display: flex;
+    padding-left: 12px;
+    height: 100%;
+}
+.header__center .header__center-menu+.header__center-menu{
+    margin-left: 32px;
+}
+.header__center .header__center-menu{
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+}
+.header__center .header__center-menu .header__center-dropdown{
+    background: url('../../assets/Icon.c6e6c5f.svg') no-repeat -199px -9px;
+	width: 10px;
+	height: 6px;
+    margin-left: 12px;
+}
+.header__center-active{
+    border-bottom: 4px solid #EC5504;
+}
+.header__center .header__center-menu:hover{
+    cursor: pointer;
+    border-bottom: 4px solid #EC5504;
+}
+.header__right{
+    position: absolute;
+    width: 200px;
+    height: 100%;
+    display: flex;
+    right: 24px;
+    align-items: center;
+}
+.header__right .header__right-notification{
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 16px;
+}
+.header__right .header__right-notification:hover{
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background-color: #F4F4F4;
+}
+.header__right .header__right-notification .header__right-icon{
+    background: url('../../assets/Icon.c6e6c5f.svg') no-repeat -267px -2px;
+	width: 18px;
+	height: 20px;
+}
+.header__right .header__right-helper{
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header__right .header__right-helper .header__right-icon{
+    background: url('../../assets/Icon.c6e6c5f.svg') no-repeat -290px -170px;
+	width: 20px;
+	height: 20px;
+}
+.header__right .header__right-helper:hover{
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background-color: #F4F4F4;
+}
+.header__right .header__right-sevice{
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header__right .header__right-sevice .header__right-icon{
+    background: url('../../assets/Icon.c6e6c5f.svg') no-repeat -146px -194px;
+	width: 20px;
+	height: 20px;
+}
+.header__right .header__right-sevice:hover{
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background-color: #F4F4F4;
+}
+.header__right .header__right-avatar{
+    width: 36px;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background-color: #5d5858;
+    margin-left: 40px;
+}

@@ -1,0 +1,271 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.API\\AMISAPP_MISA.API.csproj": {}
+  },
+  "projects": {
+    "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.API\\AMISAPP_MISA.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.API\\AMISAPP_MISA.API.csproj",
+        "projectName": "AMISAPP_MISA.API",
+        "projectPath": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.API\\AMISAPP_MISA.API.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.BL\\AMISAPP_MISA.BL.csproj": {
+                "projectPath": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.BL\\AMISAPP_MISA.BL.csproj"
+              },
+              "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.Common\\AMISAPP_MISA.Common.csproj": {
+                "projectPath": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.Common\\AMISAPP_MISA.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.BL\\AMISAPP_MISA.BL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.BL\\AMISAPP_MISA.BL.csproj",
+        "projectName": "AMISAPP_MISA.BL",
+        "projectPath": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.BL\\AMISAPP_MISA.BL.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.BL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.Common\\AMISAPP_MISA.Common.csproj": {
+                "projectPath": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.Common\\AMISAPP_MISA.Common.csproj"
+              },
+              "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.DL\\AMISAPP_MISA.DL.csproj": {
+                "projectPath": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.DL\\AMISAPP_MISA.DL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[6.1.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.Common\\AMISAPP_MISA.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.Common\\AMISAPP_MISA.Common.csproj",
+        "projectName": "AMISAPP_MISA.Common",
+        "projectPath": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.Common\\AMISAPP_MISA.Common.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.DL\\AMISAPP_MISA.DL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.DL\\AMISAPP_MISA.DL.csproj",
+        "projectName": "AMISAPP_MISA.DL",
+        "projectPath": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.DL\\AMISAPP_MISA.DL.csproj",
+        "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
+        "outputPath": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.DL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.Common\\AMISAPP_MISA.Common.csproj": {
+                "projectPath": "D:\\MISAGD2\\BE\\AMISAPP_MISA\\AMISAPP_MISA.Common\\AMISAPP_MISA.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

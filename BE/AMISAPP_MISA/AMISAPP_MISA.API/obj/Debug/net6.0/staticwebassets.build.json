@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8W9HQzlGlGVjERViAQQ05M3Zbm5A6Mv4w2Wa3Q0Uh9A=",
+  "Source": "AMISAPP_MISA.API",
+  "BasePath": "_content/AMISAPP_MISA.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

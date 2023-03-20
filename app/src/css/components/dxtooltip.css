@@ -1,0 +1,13 @@
+.dx-tooltip-wrapper.dx-popover-wrapper .dx-popover-arrow::after {
+    border: 1px solid #2a2e41 !important;
+    background-color: #2a2e41 !important;
+    
+  }
+  .dx-tooltip-wrapper .dx-overlay-content {
+    border: 1px solid #000 !important;
+    background-color: #2a2e41 !important;
+    color: #fff !important;
+    font-weight: 600;
+    font-size: 16px;
+    margin-top: 8px;
+  }

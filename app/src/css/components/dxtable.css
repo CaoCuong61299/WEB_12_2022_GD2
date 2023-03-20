@@ -1,0 +1,75 @@
+
+.dx-datagrid .dx-column-lines > td{
+    border-top: 0 !important;
+    border-right: 0 !important;
+    border-left: 0 !important ;
+    border-bottom: 1px solid #E0E0E0;
+}
+.dx-datagrid-headers{
+    color: #212121 !important;
+    font-size: 14px !important;
+    font-weight: 700 !important;
+}
+.dx-header-row > td > .dx-datagrid-text-content:not(.dx-sort-indicator):not(.dx-header-filter-indicator){
+    margin-top: 8px;
+}
+.dx-datagrid-headers .dx-datagrid-table .dx-row > td{
+    height: 48px important;
+    background-color: #F5F5F5;
+}
+.dx-datagrid-content .dx-datagrid-table .dx-row > td, .dx-datagrid-content .dx-datagrid-table .dx-row > tr > td{
+    vertical-align: inherit !important;
+    height: 48px !important;
+}
+.dx-datagrid tr:hover{
+    background-color: #FFEDE2 !important;
+}
+.dx-datagrid-content .dx-datagrid-table .dx-row.dx-data-row.dx-state-hover, .dx-datagrid-content .dx-datagrid-table .dx-row.dx-data-row.dx-state-hover td{
+    background-color: #ffede2 !important;
+}
+.dx-datagrid-rowsview .dx-selection.dx-row:not(.dx-row-focused) > td, .dx-datagrid-rowsview .dx-selection.dx-row:not(.dx-row-focused) > tr > td, .dx-datagrid-rowsview .dx-selection.dx-row:not(.dx-row-focused):hover > td, .dx-datagrid-rowsview .dx-selection.dx-row:not(.dx-row-focused):hover > tr > td{
+    background-color: #fff4e5 !important;
+}
+.dx-datagrid{
+    font-family: Roboto, Helvetica, sans-serif;
+}
+.dx-datagrid .dx-row > td{
+    padding: 0 12px;
+}
+
+.dx-datagrid-table-fixed tbody tr td:last-child {
+    display: none;
+  }
+  .dx-datagrid-table-fixed tbody tr td:nth-last-child(2){
+    display: none;
+  }
+  .dx-selection td:last-child {
+    display: table-cell !important;
+  }
+  .dx-selection td:nth-last-child(2) {
+    display: table-cell !important;
+  }
+  .dx-datagrid-table-fixed tbody tr td:last-child {
+    display: none;
+  }
+  .dx-datagrid-table-fixed tbody tr td:nth-last-child(2) {
+    display: none;
+  }
+  .dx-datagrid-table-fixed tbody tr td:last-child .function {
+    display: none;
+  }
+  .dx-datagrid-table-fixed tbody tr td:nth-last-child(2) .function {
+    display: none;
+  }
+  .dx-datagrid-table-fixed tbody .dx-state-hover td:last-child {
+    display: table-cell !important;
+  }
+  .dx-datagrid-table-fixed tbody .dx-state-hover td:nth-last-child(2) {
+    display: table-cell !important;
+  }
+  .dx-datagrid-table-fixed tbody .dx-state-hover td:last-child .function {
+    display: flex !important;
+  }
+  .dx-datagrid-table-fixed tbody .dx-state-hover td:nth-last-child(2) .function {
+    display: flex !important;
+  }

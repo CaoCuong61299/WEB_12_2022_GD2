@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AMISAPP_MISA.Common/1.0.0": {
+        "runtime": {
+          "AMISAPP_MISA.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AMISAPP_MISA.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

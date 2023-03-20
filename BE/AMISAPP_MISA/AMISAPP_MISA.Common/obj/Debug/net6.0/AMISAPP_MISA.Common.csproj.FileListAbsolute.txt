@@ -1,0 +1,14 @@
+D:\MISAGD2\BE\AMISAPP_MISA\AMISAPP_MISA.Common\bin\Debug\net6.0\AMISAPP_MISA.Common.deps.json
+D:\MISAGD2\BE\AMISAPP_MISA\AMISAPP_MISA.Common\bin\Debug\net6.0\AMISAPP_MISA.Common.dll
+D:\MISAGD2\BE\AMISAPP_MISA\AMISAPP_MISA.Common\bin\Debug\net6.0\AMISAPP_MISA.Common.pdb
+D:\MISAGD2\BE\AMISAPP_MISA\AMISAPP_MISA.Common\obj\Debug\net6.0\AMISAPP_MISA.Common.csproj.AssemblyReference.cache
+D:\MISAGD2\BE\AMISAPP_MISA\AMISAPP_MISA.Common\obj\Debug\net6.0\AMISAPP_MISA.Common.Resources.Resource.resources
+D:\MISAGD2\BE\AMISAPP_MISA\AMISAPP_MISA.Common\obj\Debug\net6.0\AMISAPP_MISA.Common.csproj.GenerateResource.cache
+D:\MISAGD2\BE\AMISAPP_MISA\AMISAPP_MISA.Common\obj\Debug\net6.0\AMISAPP_MISA.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISAGD2\BE\AMISAPP_MISA\AMISAPP_MISA.Common\obj\Debug\net6.0\AMISAPP_MISA.Common.AssemblyInfoInputs.cache
+D:\MISAGD2\BE\AMISAPP_MISA\AMISAPP_MISA.Common\obj\Debug\net6.0\AMISAPP_MISA.Common.AssemblyInfo.cs
+D:\MISAGD2\BE\AMISAPP_MISA\AMISAPP_MISA.Common\obj\Debug\net6.0\AMISAPP_MISA.Common.csproj.CoreCompileInputs.cache
+D:\MISAGD2\BE\AMISAPP_MISA\AMISAPP_MISA.Common\obj\Debug\net6.0\AMISAPP_MISA.Common.dll
+D:\MISAGD2\BE\AMISAPP_MISA\AMISAPP_MISA.Common\obj\Debug\net6.0\refint\AMISAPP_MISA.Common.dll
+D:\MISAGD2\BE\AMISAPP_MISA\AMISAPP_MISA.Common\obj\Debug\net6.0\AMISAPP_MISA.Common.pdb
+D:\MISAGD2\BE\AMISAPP_MISA\AMISAPP_MISA.Common\obj\Debug\net6.0\ref\AMISAPP_MISA.Common.dll

@@ -1,0 +1,57 @@
+.error-message{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    right: 6px;
+    top: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+}
+.error-message .error-icon{
+	width: 24px;
+	height: 24px;
+
+  -webkit-mask-repeat: no-repeat;
+    background-color: #FF6161;
+    -webkit-mask-position:  -240px -72px;
+    -webkit-mask-image: url(../../assets/Icon.c6e6c5f.svg);
+
+}
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted #2A2E41;
+  }
+  
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    width: 180px;
+    height: 36px;
+    background-color: #2A2E41;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    position: absolute;
+    font-size: 12px;
+    z-index: 1;
+    bottom: 120%;
+    right: -75px;
+    margin-left: -60px;
+  }
+  
+  .tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 7px;
+    border-style: solid;
+    border-color: #2A2E41 transparent transparent transparent;
+  }
+  
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+  }
